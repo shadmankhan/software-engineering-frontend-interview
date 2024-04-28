@@ -1,7 +1,40 @@
 ### Software Engineering (Frontend) Interview Preparation
 
-- Intro to System Design - Video by Arpit Bhayani
-https://youtu.be/1r9bPisYaOQ?si=koc6_B8IMinJDkA0
+### Table of Contents
+
+1. **Introduction**
+   - Overview of System Design
+   - Video Resource: Intro to System Design by Arpit Bhayani(https://youtu.be/1r9bPisYaOQ?si=koc6_B8IMinJDkA0)
+
+2. **JavaScript Solutions for Common Frontend Patterns**
+   - [1. Infinite Scroll](#1-infinite-scroll)
+   - [2. Search Bar](#2-search-bar)
+   - [3. Todo List](#3-todo-list)
+   - [4. AutoComplete](#4-autocomplete)
+   - [5. Routing](#5-routing)
+   - [6. Use of useContext](#6-use-of-usecontext)
+   - [7. Custom Hook](#7-custom-hook)
+   - [8. Implementation of Redux Saga](#8-implementation-of-redux-saga)
+   - [9. Stopwatch](#9-stopwatch)
+   - [10. Real-time Data Fetch](#10-real-time-data-fetch)
+   - [11. OTP Input Field](#11-otp-input-field)
+   - [12. Higher-Order Component (HOC)](#12-higher-order-component-hoc)
+
+3. **Core Concepts Explained**
+   - [SOLID Principles](#solid-principles)
+   - [ACID Properties](#acid-properties)
+   - [Network Protocols](#protocols)
+
+4. **Scenario-Based Design Questions**
+   - Designing a Dashboard for Real-Time Data
+   - Architectural Design for an E-commerce Site
+   - Customizable User Profile Layouts
+
+5. **Interview Preparation Tips**
+   - Reviewing Past Projects
+   - Essentials of JavaScript, CSS, HTML
+   - Conducting Mock Interviews
+
 
 These examples will be brief and targeted, ideal for interview preparation and quick revision.
 
@@ -608,7 +641,7 @@ These protocols define how data is to be packetized, addressed, transmitted, rou
 
 ## General Interview Questions (Topic Based)
 
-In your frontend software engineer interview at Walmart, focusing on Low-Level Design (LLD), you can expect a mix of conceptual and practical questions. These might range from assessing your understanding of design principles to applying them in real-world scenarios. Here are some potential questions you could encounter:
+In your frontend software engineer interview, focusing on Low-Level Design (LLD), you can expect a mix of conceptual and practical questions. These might range from assessing your understanding of design principles to applying them in real-world scenarios. Here are some potential questions you could encounter:
 
 ### 1. **Design Patterns and Principles**
 - Can you explain the SOLID principles? How would you apply them in JavaScript?
@@ -643,7 +676,7 @@ In your frontend software engineer interview at Walmart, focusing on Low-Level D
 - What do you look for in a code review, especially related to design?
 
 
-Let's dive into potential solutions for the scenario-based low-level design questions you might face in your frontend interview at Walmart. Each solution will focus on key considerations, component design, and data management strategies using JavaScript and relevant frameworks.
+Let's dive into potential solutions for the scenario-based low-level design questions you might face in your frontend interview. Each solution will focus on key considerations, component design, and data management strategies using JavaScript and relevant frameworks.
 
 ### Scenario 1: Designing a Dashboard Displaying Real-Time Data from Multiple Sources
 
